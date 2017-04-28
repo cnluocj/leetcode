@@ -1,3 +1,7 @@
+"""
+95.58%
+"""
+
 class Solution(object):
     def twoSum(self, nums, target):
         """

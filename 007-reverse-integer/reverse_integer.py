@@ -1,3 +1,7 @@
+"""
+42.69%
+"""
+
 class Solution(object):
     def reverse(self, x):
         """

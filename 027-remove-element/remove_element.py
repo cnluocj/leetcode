@@ -1,3 +1,7 @@
+"""
+88.80%
+"""
+
 class Solution(object):
     def removeElement(self, nums, val):
         """

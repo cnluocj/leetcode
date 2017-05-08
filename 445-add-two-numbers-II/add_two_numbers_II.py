@@ -1,5 +1,8 @@
 """
 41.96%
+
+我这个太复杂了
+其实可以把链表转成整数，然后求和，然后再转成链表
 """
 
 # Definition for singly-linked list.

@@ -15,6 +15,7 @@ class Solution(object):
         return random.choice(self.indexes[target])
 
 collections.defaultdict 能省内存吗？
+不过也不能通过测试了
 """
 
 import random
